@@ -76,10 +76,10 @@
     margin-bottom: 63px;
 }
 
-.first_section_img{
-    width: 100%;
-    max-width: 900px;
-    height: auto;
+.first_section_button:hover{
+    background-color: #fff;
+    border: 1px solid #FB8F1D;
+    color: #FB8F1D;
 }
 
 

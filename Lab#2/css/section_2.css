@@ -34,6 +34,12 @@
     cursor: pointer;
 }
 
+.second_section_button:hover{
+    background-color: #fff;
+    border: 1px solid #FB8F1D;
+    color: #FB8F1D;
+}
+
 .wrapper{
     width: 80%;
     margin: 0 auto;

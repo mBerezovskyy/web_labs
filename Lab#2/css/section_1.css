@@ -53,6 +53,11 @@
     font-size: 22px;
 }
 
+.first_section_img{
+    height: auto;
+    width: 100%;
+}
+
 .line{
     width: 32px;
     height: 2px;
